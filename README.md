@@ -4,6 +4,7 @@
 - 🌱 Estudando a área de Front-End, mais especificamente JavaScript, na biblioteca ReactJS;
 - 🌎 Busco oportunidades na área citada (Front-End);
 -  ✔️ Contate- me via e-mail: felipeedu1516@gmail.com;
+-  ✔️ LinkedIn: www.linkedin.com/in/felipe-aguiar-3663fe;
 
  <div>
   <a href="https://github.com/FelipeAguiar1">
